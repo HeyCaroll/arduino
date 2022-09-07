@@ -2,8 +2,7 @@
 > Status do projeto:  Em desenvolvimento :warning:
 
 
-
-## Hardware ultilizados: 
+## :open_file_folder: Hardware ultilizados: 
 |Qnt.| Componente |
 | :---: | ---: | 
 | 1 | arduino UNO |
