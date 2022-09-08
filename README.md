@@ -1,4 +1,5 @@
-# :memo: Projetos 
+# :memo: Projetos Arduino
+> Status do projeto:  Em desenvolvimento :warning:
 
 
 Esse repositorio é dedicado aos projetos elaborados em Arduido pela equipe FRC#8066
