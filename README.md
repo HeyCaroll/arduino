@@ -1,6 +1,9 @@
-# :memo: Projetos Arduino
-> Status do projeto:  Em desenvolvimento :warning:
+<p align="center">
+  <img src="banner.png" width="700" title="banner">
+</p>
 
+# :memo: Projetos 
+> Status do projeto:  Em desenvolvimento :warning:
 
 Esse repositorio é dedicado aos projetos elaborados em Arduido pela equipe FRC#8066
 
@@ -11,7 +14,5 @@ Esse repositorio é dedicado aos projetos elaborados em Arduido pela equipe FRC#
 |Vinicius Ferreti | X |:white_check_mark:| Programação |
 |Russo| X |:white_check_mark:| Programação |
 |Kauê| X |:white_check_mark:|Programação|
-## Licença 
-The MIT Lincense<a href="https://mit-license.org/"> (MIT)</a>
 
- Copyright :copyright: 2022 - Caroliny Silva
+
