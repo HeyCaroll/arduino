@@ -1,15 +1,18 @@
-# Projeto 01 - LCD
-> Status do projeto:  Em desenvolvimento :warning:
+# Projeto 01 - Display LCD
 
+<p>
+O Display LCD possibilita a interação de dispositivos digitais por meio de elementos gráficos, e partir da combinação entre esses mecanismos, é possível visualizar as informações processadas pelo sistema.
+</p>
 
-
-## Hardware ultilizados: 
+## :open_file_folder: Hardware ultilizados
 |Qnt.| Componente |
-| :---: | ---: | 
+| :---: | :---: | 
 | 1 | arduino UNO |
 | 1 | USB tipo A/B |
 | 1 | LCD 16x2 |
 | 1 | Breadboard |
-| 14 | fios de conexão |
-| 1 | resistor |
+| 14 | Cabos jumper macho-macho |
+| 1 | resistor 220 ohms|
 
+## :pencil: Vista esquemática 
+<img src="/LCD/vistaEsquemática.png" width="600">
