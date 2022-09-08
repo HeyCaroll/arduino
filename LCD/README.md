@@ -1,5 +1,5 @@
 # Projeto 01 - Display LCD
-> Status do projeto:  Em desenvolvimento :warning:
+
 <p>
 O Display LCD possibilita a interação de dispositivos digitais por meio de elementos gráficos, e partir da combinação entre esses mecanismos, é possível visualizar as informações processadas pelo sistema.
 </p>
