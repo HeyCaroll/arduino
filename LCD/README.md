@@ -17,4 +17,4 @@ O Display LCD possibilita a interação de dispositivos digitais por meio de ele
 ## :pencil: Vista esquemática 
 <img src="/LCD/vistaEsquemática.png" width="600">
 
-<a href='https://www.tinkercad.com/things/4euId7k4GeF-lcd-robotica/editel'> link </a>
+<a href='https://www.tinkercad.com/things/4euId7k4GeF'> link </a>
