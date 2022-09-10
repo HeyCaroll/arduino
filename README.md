@@ -2,17 +2,20 @@
   <img src="banner.png" width="700" title="banner">
 </p>
 
-# :memo: Projetos 
+# 🚀 Grupo 01 
 > Status do projeto:  Em desenvolvimento :warning:
 
-Esse repositorio é dedicado aos projetos elaborados em Arduido pela equipe FRC#8066
+Esse repositorio é dedicado aos projetos elaborados pelo Grupo- 01 da equipe FRC8066
 
 ## Membros
  |Nome|Github|Ativo|área|
 | :--- | :---: | :---: | :---: |
 |Caroliny Silva|@HeyCaroll|:white_check_mark:|Programação|
-|Vinicius Ferreti | X |:white_check_mark:| Programação |
-|Russo| X |:white_check_mark:| Programação |
-|Kauê| X |:white_check_mark:|Programação|
+|Clarrise Lucon| X |:white_check_mark:|Mêcanica|
+|Larrisa Araujo| X |:white_check_mark:|Eletronica|
+|Mylena Francisco| X |:white_check_mark:|Eletrônica|
+|Thayná Leandra| X |:white_check_mark:|Projeto|
+|Vinicius Ferretti | X |:white_check_mark:|Mêcanica|
+
 
 
