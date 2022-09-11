@@ -10,9 +10,9 @@ Esse repositorio é dedicado aos projetos elaborados pelo Grupo- 01 da equipe FR
 ## Membros
  |Nome|Github|Ativo|área|
 | :--- | :---: | :---: | :---: |
-|Caroliny Silva|@HeyCaroll|:white_check_mark:|Programação|
+|Caroliny Silva|@HeyCaroll|:white_check_mark:|Prog / adm|
 |Clarrise Lucon| X |:white_check_mark:|Mêcanica|
-|Larrisa Araujo| X |:white_check_mark:|Eletronica|
+|Larrisa Araujo| X |:white_check_mark:|Eletrônica|
 |Mylena Francisco| X |:white_check_mark:|Eletrônica|
 |Thayná Leandra| X |:white_check_mark:|Projeto|
 |Vinicius Ferretti | X |:white_check_mark:|Mêcanica|
