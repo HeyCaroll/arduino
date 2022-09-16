@@ -1,3 +1,5 @@
+#include <LiquidCrystal.h>
+
 int trigPin = 2;    
 int echoPin = 3;    
 
